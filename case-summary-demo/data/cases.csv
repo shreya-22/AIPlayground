@@ -1,0 +1,6 @@
+case_id,patient_name,dob,diagnosis,assigned_nurse
+C001,Margaret Thornton,1948-03-12,Congestive Heart Failure / Type 2 Diabetes,RN Sarah Patel
+C002,James Kowalski,1955-07-29,Post-Surgical Hip Replacement Recovery,RN David Chen
+C003,Eleanor Vásquez,1941-11-05,Chronic Obstructive Pulmonary Disease (COPD),RN Maria Lopez
+C004,Robert Simmons,1960-02-18,Hypertension / Chronic Kidney Disease Stage 3,RN Sarah Patel
+C005,Dorothy Nakamura,1952-09-30,Alzheimer's Disease / Osteoporosis,RN David Chen
