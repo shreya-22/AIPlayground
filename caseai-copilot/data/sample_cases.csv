@@ -1,0 +1,6 @@
+case_id,member_name,status,open_date,discharge_date,assigned_nurse,last_contact_date,case_type,priority_label
+CASE001,Margaret Wilson,Active,2024-01-15,,Sarah Johnson,2024-03-08,Post-Surgical,Medium
+CASE002,Robert Chen,Active,2024-02-03,,Maria Garcia,2024-02-28,Chronic Disease Mgmt,High
+CASE003,Dorothy Patterson,Discharged,2024-01-20,2024-03-01,James Mitchell,2024-03-01,Cardiac Rehab,Low
+CASE004,James Thompson,Active,2024-02-20,,Lisa Park,2024-02-15,Complex Care,Critical
+CASE005,Susan Martinez,Active,2024-03-01,,,2024-03-05,Behavioral Health,Medium

@@ -1,0 +1,20 @@
+visit_id,case_id,visit_date,visit_type,provider_name,outcome
+V001,CASE001,2024-01-14,Surgical Procedure,Dr. Raymond Hughes,Right total knee replacement completed without complications. Patient transferred to recovery and initiated on post-surgical care protocol.
+V002,CASE001,2024-01-16,Post-Surgical Assessment,Sarah Johnson (RN),Initial post-discharge assessment. Wound intact. Pain 6/10. PT ordered and initiated.
+V003,CASE001,2024-02-15,Home Visit,Sarah Johnson (RN),Patient progressing well. Medication concern identified — missed metoprolol doses. Education provided. Refill confirmed.
+V004,CASE001,2024-03-05,Physical Therapy Discharge,PT Dept - Michael Torres,Patient formally discharged from PT program after achieving all goals. Ambulating without assistive device indoors.
+V005,CASE002,2024-02-05,Enrollment Assessment,Maria Garcia (RN),Initial chronic disease management assessment completed. HbA1c 9.8. Multiple medication adherence issues identified.
+V006,CASE002,2024-02-14,Diabetes Education Class,Certified Diabetes Educator,NO SHOW - Patient did not attend scheduled diabetes education class. Second missed appointment in two weeks.
+V007,CASE002,2024-02-21,Social Work Consultation,Social Work Department,Referral submitted by case manager. No appointment confirmed as of referral date.
+V008,CASE002,2024-03-10,Diabetes Education - Rescheduled,Certified Diabetes Educator,NO SHOW - Patient did not attend rescheduled diabetes education session. Status: Unconfirmed/Absent.
+V009,CASE003,2024-01-21,Initial Cardiac Rehab Assessment,James Mitchell (RN),Baseline assessment completed. Exercise tolerance 2.5 METs. Hemodynamically stable. Program initiated.
+V010,CASE003,2024-02-01,Cardiac Rehab Session 1,Cardiac Rehab Team,Session 1 of 36 completed. HR and BP within parameters. Good patient engagement.
+V011,CASE003,2024-02-15,Cardiac Rehab Mid-Program Check,James Mitchell (RN),8 sessions completed. Exercise tolerance 4 METs. Perfect attendance. Blood pressure 118/72.
+V012,CASE003,2024-02-26,Cardiac Rehab Program Completion,Cardiac Rehab Team,All 36 sessions completed. Final stress test 7 METs. Formally discharged from Phase II cardiac rehab.
+V013,CASE004,2024-02-19,Post-Discharge Assessment,Lisa Park (RN),Initial assessment following CHF hospitalization discharge 2024-02-18. Patient confused and minimally engaged. Lives alone. No caregiver identified.
+V014,CASE004,2024-02-26,Home Visit Attempt,Lisa Park (RN),NO CONTACT - Patient did not answer door despite neighbor reporting patient was home. Door hanger left with contact information.
+V015,CASE004,2024-03-02,PCP Urgent Appointment,Dr. Prakash Menon,NO SHOW - Patient arranged medical transport but did not present to urgent PCP appointment. Status: Absent.
+V016,CASE005,2024-02-27,Psychiatric Discharge Assessment,Dr. Anita Sharma,Patient discharged from inpatient psychiatric unit. PHQ-9 at discharge: 16. Prescribed sertraline 100mg. Outpatient therapy arranged with Dr. Kwan.
+V017,CASE005,2024-03-02,Initial Case Management Assessment,Dr. Anita Sharma,Enrollment assessment completed. PHQ-9: 14. Patient cooperative. Therapy referral confirmed. Safety plan reviewed.
+V018,CASE005,2024-03-08,Outpatient Therapy Session 1,Dr. Jennifer Kwan (LCSW),First outpatient therapy session completed. Patient engaged. Initial treatment goals established.
+V019,CASE005,2024-03-14,Outpatient Therapy Session 2,Dr. Jennifer Kwan (LCSW),Second session completed. Patient reports gradual mood improvement. Behavioral activation strategies introduced.

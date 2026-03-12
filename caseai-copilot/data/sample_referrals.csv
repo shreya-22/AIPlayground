@@ -1,0 +1,23 @@
+referral_id,case_id,referral_date,referred_by,referral_type,status,details
+R001,CASE001,2024-01-16,Sarah Johnson,Physical Therapy,completed,PT referral for post-surgical knee rehabilitation. Patient enrolled same day.
+R002,CASE001,2024-02-15,Sarah Johnson,Pharmacy Consultation,completed,Referral to clinical pharmacist for medication reconciliation review following adherence gap.
+R003,CASE002,2024-02-04,Maria Garcia,Diabetes Education,pending,Referral for structured diabetes self-management education program. Patient has not attended.
+R004,CASE002,2024-02-21,Maria Garcia,Social Work,pending,Caregiver stress and financial barriers identified. SW referral submitted - no response to date.
+R005,CASE002,2024-02-20,Maria Garcia,Medical Transport,completed,Transportation assistance arranged for clinic appointments due to vehicle unavailability.
+R006,CASE003,2024-01-21,James Mitchell,Cardiac Rehabilitation,completed,Phase II cardiac rehab referral post-NSTEMI. Patient completed full 36-session program.
+R007,CASE003,2024-01-21,James Mitchell,Cardiology Follow-up,completed,Referral for outpatient cardiology follow-up with Dr. Patel. Appointment confirmed for 2024-03-15.
+R008,CASE004,2024-02-21,Lisa Park,Complex Care Management,completed,Self-referral from acute CHF hospitalization. Case opened at Critical priority.
+R009,CASE004,2024-02-21,Lisa Park,Home Health Services,pending,Home health referral submitted for daily weight monitoring and medication support. Status unknown.
+R010,CASE004,2024-03-02,Lisa Park,Emergency Services,completed,Wellness check requested through local authorities following unreachable patient with safety concerns.
+R011,CASE005,2024-03-02,Dr. Anita Sharma,Outpatient Therapy,completed,Referral to Dr. Jennifer Kwan LCSW for weekly outpatient psychotherapy. Patient attending.
+R012,CASE005,2024-03-05,Dr. Anita Sharma,Peer Support Group,pending,Referral to community depression support group (Thursday meetings). Patient expressed interest but not yet attended.
+R013,CASE001,2026-02-28,Sarah Johnson,Occupational Therapy,completed,OT evaluation requested for return-to-driving assessment following knee replacement recovery.
+R014,CASE002,2026-02-28,Maria Garcia,Nephrology,pending,Referral to nephrology for CKD Stage 2 management given worsening kidney function markers.
+R015,CASE004,2026-03-01,Lisa Park,Hospital Liaison,pending,Hospital follow-up referral pending confirmation of current admission status and care coordination.
+R016,CASE005,2026-03-08,Dr. Anita Sharma,Nutritional Counseling,pending,Referral for nutritional counseling following patient report of skipping meals when stressed.
+R017,CASE002,2026-03-05,Maria Garcia,Medication Management Program,pending,Referral to pharmacy-led medication management program for complex multi-drug regimen support.
+R018,CASE001,2026-03-08,Sarah Johnson,Primary Care Follow-up,completed,Routine primary care follow-up referral for 90-day post-surgical wellness check.
+R019,CASE003,2026-03-10,James Mitchell,Cardiology Annual Review,pending,Annual cardiology review referral for post-NSTEMI monitoring. One year post-event approaching.
+R020,CASE005,2026-03-10,Dr. Anita Sharma,Case Coordinator Assignment,pending,Internal referral to supervisory team for assignment of dedicated case coordinator to CASE005.
+R021,CASE002,2026-03-11,Maria Garcia,Urgent PCP Consultation,pending,Urgent referral for PCP evaluation of patient-reported confusion episodes not yet clinically assessed.
+R022,CASE004,2026-03-11,Lisa Park,Hospital Social Work,pending,Referral to hospital social work team for discharge planning support following emergency admission.
